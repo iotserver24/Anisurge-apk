@@ -1,7 +1,7 @@
 # Anisurge APK
 
 <p align="center">
-  <img src="https://github.com/iotserver24/Anisurge-apk/img/icon.png" alt="Anisurge Logo" width="150">
+  <img src="https://github.com/iotserver24/Anisurge-apk/blob/c8781720e10b722e50ca03e48b9d37acdc983d70/img/icon.png" alt="Anisurge Logo" width="150">
 </p>
 
 ## About Anisurge
