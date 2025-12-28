@@ -4,9 +4,15 @@
   <img src="https://github.com/iotserver24/Anisurge-apk/blob/c8781720e10b722e50ca03e48b9d37acdc983d70/img/icon.png" alt="Anisurge Logo" width="150">
 </p>
 
+## 🎉 Open Source
+
+**Anisurge is now open source!** The complete source code for this application is available on GitHub. You can explore, learn from, contribute to, or fork the project.
+
+**📂 Source Code Repository:** [https://github.com/iotserver24/anipro-app](https://github.com/iotserver24/anipro-app)
+
 ## About Anisurge
 
-Anisurge is a free anime streaming application that lets you watch your favorite anime series and movies. This repository contains the latest releases of the Anisurge APK for Android devices.
+Anisurge is a free anime streaming application built with React Native and TypeScript that lets you watch your favorite anime series and movies. This repository contains the latest releases of the Anisurge APK for Android devices.
 
 ## 📱 Download
 
@@ -46,18 +52,31 @@ Not sure which version to download? Use the Universal APK.
 
 This application is meant for educational and personal use only. Please support the original content creators by using legal streaming services when available.
 
+## 🤝 Contributing
+
+Since Anisurge is open source, we welcome contributions from the community!
+
+- **Source Code:** [https://github.com/iotserver24/anipro-app](https://github.com/iotserver24/anipro-app)
+- **Report Bugs:** Open an issue on the source repository
+- **Submit Features:** Fork, implement, and create a pull request
+- **Improve Documentation:** Help make the project more accessible
+
+Check out the [source code repository](https://github.com/iotserver24/anipro-app) to get started with development.
+
 ## 📬 Contact & Support
 
 If you encounter any issues or have suggestions:
-- Open an [issue](https://github.com/iotserver24/Anisurge-apk/issues) on GitHub
+- Open an [issue](https://github.com/iotserver24/Anisurge-apk/issues) for APK-related issues
+- Visit the [source code repository](https://github.com/iotserver24/anipro-app) for development discussions
 - Join our community discussions
 
 ## 🌟 Show Your Support
 
 If you find Anisurge helpful, please consider:
-- ⭐ Starring this repository
+- ⭐ Starring both the [APK repository](https://github.com/iotserver24/Anisurge-apk) and [source code repository](https://github.com/iotserver24/anipro-app)
 - 📢 Sharing with your friends
 - 🐛 Reporting any bugs you find
+- 🔧 Contributing to the open-source project
 
 ---
 
