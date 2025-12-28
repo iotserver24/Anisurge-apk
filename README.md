@@ -8,6 +8,20 @@
 
 Anisurge is a free anime streaming application that lets you watch your favorite anime series and movies. This repository contains the latest releases of the Anisurge APK for Android devices.
 
+## 🌐 Open Source
+
+**Anisurge is open source!** The complete source code for this project is available at:
+
+### 🔗 [https://github.com/iotserver24/anipro-app](https://github.com/iotserver24/anipro-app)
+
+The source code repository contains:
+- Full TypeScript/React Native codebase
+- Firebase backend configuration
+- Build configurations and setup files
+- Contribution guidelines
+
+We welcome contributions, bug reports, and feature requests from the community!
+
 ## 📱 Download
 
 Download the latest version of Anisurge that matches your device:
